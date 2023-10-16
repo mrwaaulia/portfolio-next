@@ -12,7 +12,7 @@ function Footer() {
       <div className="container w-full mx-auto p-20">
         <div className="grid grid-cols-3 gap-8">
           <div className="w-full font-medium text-slate-300 px-4 mb-12">
-            <h2 className="font-bold text-4xl text-white mb-5">WPU</h2>
+            <h2 className="font-bold text-4xl text-white mb-5">MAL</h2>
             <h3 className="font-bold text-2xl mb-2">Hubungi Kami</h3>
             <p>marwaaulialukman956@gmail.com</p>
             <p>Jl. Cigondewah Rahayu No.57</p>
